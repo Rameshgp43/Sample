@@ -1,0 +1,159 @@
+[33mcommit f5cb9b2029e43abb8eec30c3169019ab3b321888[m[33m ([m[1;36mHEAD -> [m[1;32mbranch44[m[33m, [m[1;31morigin/branch44[m[33m)[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 23:34:59 2022 +0530
+
+    dfsdf
+
+[33mcommit 746dfb3f0fcd013f7b29bac12156d24f6a035c40[m
+Merge: c5ea866 9216b27
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 23:28:57 2022 +0530
+
+    onflict merge
+
+[33mcommit c5ea8663c0c6d6bf6ab524534d42e26c7aa2bd18[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 23:17:35 2022 +0530
+
+    fghgfh
+
+[33mcommit 9216b27eaefd759411294d8965b42aa0e71fb7b0[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 23:15:00 2022 +0530
+
+    dgfdg
+
+[33mcommit 2a1dbc8eb7525780ce7749a930b32de99586ab4f[m
+Merge: d2ec875 a14ee0e
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 23:08:13 2022 +0530
+
+    sassssss
+
+[33mcommit a14ee0e794252446dd2b0897d0746cb5003ff266[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 22:56:14 2022 +0530
+
+    sas
+
+[33mcommit d2ec875128bc2c4e1ec886edf82d1c44adb7f8a8[m
+Merge: 462832f 6ee37a6
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 22:51:38 2022 +0530
+
+    Merge branch 'branch44'
+
+[33mcommit 462832f9753c01483a7f725b62653088cdd61691[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 22:49:01 2022 +0530
+
+    lets seeeeeqq
+
+[33mcommit 6ee37a664ddb1c0d082882b208cd8cdcfeb53a6d[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 22:46:55 2022 +0530
+
+    lets seeeee
+
+[33mcommit e6f801a937621f8389d3ca15af1397a0f1c2bfa3[m[33m ([m[1;32mbranch33[m[33m)[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 22:42:33 2022 +0530
+
+    lets see
+
+[33mcommit 598487aa16eb2c5c2b05921631bbf246b8d8eb2a[m[33m ([m[1;31morigin/branch33[m[33m)[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 20:58:15 2022 +0530
+
+    lets see
+
+[33mcommit 85bc0b31ceeae5f5e5c1fbbf65ce9b7d45003417[m
+Merge: de177f5 d15a020
+Author: Rameshgp43 <32270087+Rameshgp43@users.noreply.github.com>
+Date:   Thu Jan 13 20:36:25 2022 +0530
+
+    Merge pull request #1 from Rameshgp43/branch3
+    
+    Branch3
+
+[33mcommit d15a020a6cc77f5e6a1f603908f9c46f7cd11076[m[33m ([m[1;31morigin/branch3[m[33m, [m[1;32mbranch3[m[33m)[m
+Merge: 4c0bca4 a524ed5
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 20:30:24 2022 +0530
+
+    Merginh... branch 'master' into branch3
+
+[33mcommit a524ed5acdf61935a869d70162b1fa9cb509b9a7[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 20:29:24 2022 +0530
+
+    3 lines of code in file1
+
+[33mcommit 4c0bca4043cb12899d629bded29ce7bfc087b624[m
+Merge: 2059bfe de177f5
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Thu Jan 13 20:25:55 2022 +0530
+
+    merging.... branch 'master' into branch3
+
+[33mcommit 2059bfe09e062788cb85335792a2c5fc3d17883f[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Wed Jan 12 00:13:36 2022 +0530
+
+    This is the first line
+    
+    and this is the second line to commit file6
+
+[33mcommit de177f5f6f0a240235ee928a4b4e7cee968e4abb[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Tue Jan 11 23:35:29 2022 +0530
+
+    checking branches
+
+[33mcommit b3ead498a38c89d04db47c28e9db88e75871b7b2[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;32mrelease3[m[33m, [m[1;32mrelease1[m[33m, [m[1;32mbranch2[m[33m)[m
+Author: Rameshgp43 <32270087+Rameshgp43@users.noreply.github.com>
+Date:   Tue Jan 11 23:15:01 2022 +0530
+
+    Create file5
+
+[33mcommit be275649cdbd664c6397d83572a6c316b965e027[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Tue Jan 11 23:14:01 2022 +0530
+
+    adding ramesh1 directory
+
+[33mcommit fd0af62f0cec9292a71c628261ceb7754070614f[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Tue Jan 11 23:10:20 2022 +0530
+
+    removed file5
+
+[33mcommit 0f1ffe40a5a38c2686c7565f609361953a1f043b[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Tue Jan 11 23:07:20 2022 +0530
+
+    removed file6
+
+[33mcommit 5c2d956f9ce4a1ef1b7b8baea07b33553eef3098[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Tue Jan 11 23:06:03 2022 +0530
+
+    added content for file1
+
+[33mcommit 7b4f04c50b03ef26e2376cbbc182cac27ff35c41[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Tue Jan 11 22:54:51 2022 +0530
+
+    adding 3 new files
+
+[33mcommit 3bb562965c58c2232961ce449c53dcf472e5ed44[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Sat Oct 2 22:43:25 2021 +0530
+
+    Committing file1,2,3
+
+[33mcommit 57cca7e04bb98a8fa2886390b725fe470f941c38[m
+Author: Ramesh Garimella <rameshgp43@gmail.com>
+Date:   Mon Sep 20 23:07:02 2021 +0530
+
+    first commit
